@@ -6,13 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Ai course generator**
-
 - 🌱 I’m currently learning **AWS, Docker and Next Js**
 
 - 👨‍💻 All of my projects are available at [wassim-portfolio.vercel.app](wassim-portfolio.vercel.app)
-
-- 💬 Ask me about **Angular, .Net, React and AWS**
 
 - 📫 How to reach me **wassim.maaloul@outlook.com**
 
