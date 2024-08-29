@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from From Tunisia and currently living in Germany.</h3>
 
 # 💫 About Me:
-🔭I’m currently learning AWS, Docker and Next Js.<br>👨‍💻 All of my projects are available at : wassim-portfolio.vercel.app<br>📫 How to reach me wassim.maaloul@outlook.com<br>📄 Know about my experiences : drive.google.com/file/d/1aEcFATp6UyKt633JNG5ZxHysY78t0IDb/view<br>
+🔭I’m currently learning AWS and Docker .<br>👨‍💻 All of my projects are available at : wassim-portfolio.vercel.app<br>📫 How to reach me wassim.maaloul@outlook.com<br>📄 Know about my experiences : drive.google.com/file/d/1aEcFATp6UyKt633JNG5ZxHysY78t0IDb/view<br>
 
 
 ## 🌐 Socials:
